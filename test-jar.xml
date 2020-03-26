@@ -79,6 +79,7 @@
       </batchtest>
     </junit>
   </target>
+	
   <target name="compile-tests" >
     <mkdir dir="${testclassesdir}"/>
     <javac destdir="${testclassesdir}" deprecation="true" debug="true"
