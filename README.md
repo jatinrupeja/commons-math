@@ -93,7 +93,7 @@ Donations
 You like Apache Commons Math? Then [donate back to the ASF](https://www.apache.org/foundation/contributing.html) to support the development.
 
 Additional Resources
---------------------
+---------------------
 
 + [Apache Commons Homepage](https://commons.apache.org/)
 + [Apache Bugtracker (JIRA)](https://issues.apache.org/jira/)
@@ -101,3 +101,4 @@ Additional Resources
 + #apachecommons IRC channel on freenode.org
 
 [ml]:https://commons.apache.org/mail-lists.html
+
